@@ -1,6 +1,36 @@
 ![header](assets/all_you_need.png)
 
-Welcome to my personal repository documenting my journey through machine learning! This repository serves as both a learning diary and a resource collection for others interested in ML.
+## 🎯 Study progress: 
+
+✅ ✅ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+Day 2 of 14
+
+#### Current Focus Area:
+
+- [ ] "Build a Large Language Model" by Sebastian Raschka
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <h3>📖 Day 1</h3>
+        <a href="notes/">
+          <b>"Introduction to LLM"</b>
+        </a>
+        <br/>
+        <sub>From: Build a Large Language Model</sub>
+      </td>
+      <td align="center" width="300px">
+        <h3>📖 Day 2</h3>
+        <a href="notes/">
+          <b>Preparing text for LLM training</b>
+        </a>
+        <br/>
+        <sub>From: Build a Large Language Models</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📚 About This Repository
 
@@ -22,29 +52,10 @@ If you want to connect and have day by day updates on my journey you can follow 
 ## 🗂️ Repository Structure
 
 ```
-├── projects/         # Hands-on ML projects
-├── notebooks/        # Jupyter notebooks with examples
 ├── notes/           # Study notes and summaries
 ├── resources/       # Useful learning resources
 └── exercises/       # Practice exercises
 ```
-
-## 🎯 Current Focus Areas
-
-- [ ] Data preprocessing and visualization
-- [ ] Basic ML algorithms
-- [ ] Deep Learning foundations
-- [ ] Large Lan
-
-
-## 📖 Learning Resources
-
-I'll update this session through my journey
-
-### Books I'm Reading
-- "Build a Large Language Model" by Sebastian Raschka
-- "Probabilistic Machine Learning: An Introduction" by Kevin P. Murphy
-
 
 ## 🤝 Contributing
 
