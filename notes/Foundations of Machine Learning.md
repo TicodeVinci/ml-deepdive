@@ -18,21 +18,44 @@ Traditional programming requires explicit rules to be coded for every situation.
 1. **Supervised Learning**
    * Works with labeled data
    * The algorithm learns to map inputs to known outputs
+   * Use example:
+      * Email spam detection or house price prediction
 
 2. **Unsupervised Learning**
    * Works with unlabeled data
    * Finds hidden patterns or structures in data
-
+   * Use example:
+      * Customer segmentation or grouping similar news articles
 
 3. **Reinforcement Learning**
    * Learns through trial and error
    * Receives rewards or penalties for actions
+   * Use example:
+      * A game-playing AI learning to win at chess
 
-![alt text](assets/mindmap1.png)
+![alt text](../assets/mindmap1.png)
 
 ## The Machine Learning Pipeline
 
-### 1. Data Collection and Preparation
+```mermaid
+graph TB
+    A[Collect Raw Data] --> B[Clean & Prepare Data]
+    B --> C[Split Data]
+    C --> D[Training Set]
+    C --> E[Validation Set]
+    C --> F[Test Set]
+    D --> G[Train Model]
+    G --> H[Evaluate Performance]
+    H --> I{Good Results?}
+    I -- No --> J[Adjust Model]
+    J --> G
+    I -- Yes --> K[Final Test]
+    K --> L{Satisfactory?}
+    L -- No --> B
+    L -- Yes --> M[Deploy Model]
+```
+
+### Data Collection and Preparation
 The foundation of any ML project starts with data. Key considerations include:
 
 * Data quality and quantity requirements
@@ -40,7 +63,7 @@ The foundation of any ML project starts with data. Key considerations include:
 * Feature engineering
 * Data splitting (training/validation/test sets)
 
-### 2. Model Development
+### Model Development
 
 Building effective ML models involves:
 
@@ -51,31 +74,14 @@ Building effective ML models involves:
 
 Best practices include:
 - Starting with simple models
-- Using [[cross-validation]]
-- Monitoring for [[overfitting]]/underfitting
+- Using cross-validation
+- Monitoring for overfitting/underfitting
 - Implementing proper evaluation metrics
 
-### 3. Model Evaluation
-Crucial metrics and considerations:
-
-* Classification metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1-score
-
-* [[Regression]] metrics:
-  - Mean Squared Error (MSE)
-  - Root Mean Squared Error (RMSE)
-  - Mean Absolute Error (MAE)
 
 
 
-____
-Tags: [[Machine Learning]]
-[[Supervised learning]]
-[[Unsupervised learning]]
-[[Reinforcement learning]]
+
 
 
 
