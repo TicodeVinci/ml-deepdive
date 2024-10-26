@@ -32,6 +32,8 @@ Day 2 of 14
   </table>
 </div>
 
+
+
 ## 📚 About This Repository
 
 This repository it's been created to share the progress of my 14 days challenge studying Machine Learning that I started on X. 
