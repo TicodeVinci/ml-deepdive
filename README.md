@@ -14,16 +14,16 @@ Day 2 of 14
     <tr>
       <td align="center" width="300px">
         <h3>🗒️ Note </h3>
-        <a href="notes/">
-          <b>"Introduction to LLM"</b>
+        <a href="notes/Foundations of Machine Learning.md">
+          <b>"Introduction ML"</b>
         </a>
         <br/>
-        <sub>From: Build a Large Language Model</sub>
+        <sub>From: Probabilistic Machine Learning: An Introduction</sub>
       </td>
       <td align="center" width="300px">
         <h3>🗒️ Note </h3>
-        <a href="notes/">
-          <b>Preparing text for LLM training</b>
+        <a href="notes/Large Language Models.md">
+          <b>Introduction to LLM</b>
         </a>
         <br/>
         <sub>From: Build a Large Language Models</sub>
