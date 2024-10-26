@@ -34,11 +34,11 @@ graph LR
 ## Architecture and Components
 
 ### Transformer Architecture
-The foundation of modern LLMs is the transformer architecture, introduced in 2017 in the famous paper [attention is all you need](../../resources/Attention_is_all_you_need.pdf) it changes everything. 
+The foundation of modern LLMs is the transformer architecture, introduced in 2017 in the famous paper [attention is all you need](Attention_is_all_you_need.pdf) it changes everything. 
 
-Before transoformers models had to process words one at a time, making them way slower, less efficent and loosing context over long texts. 
+Before transoformers, models had to process words one at a time, making them way slower, less efficent and loosing context over long texts. 
 
-Key breakthrough -> Self-attention = adding attention layers between encoders/decoders
+Key breakthrough -> **Self-attention** = adding attention layers between encoders/decoders
 
 - **Encoder**: Processes input text
 - **Decoder**: Generates output text
