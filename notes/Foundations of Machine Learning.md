@@ -37,24 +37,6 @@ Traditional programming requires explicit rules to be coded for every situation.
 
 ## The Machine Learning Pipeline
 
-```mermaid
-graph TB
-    A[Collect Raw Data] --> B[Clean & Prepare Data]
-    B --> C[Split Data]
-    C --> D[Training Set]
-    C --> E[Validation Set]
-    C --> F[Test Set]
-    D --> G[Train Model]
-    G --> H[Evaluate Performance]
-    H --> I{Good Results?}
-    I -- No --> J[Adjust Model]
-    J --> G
-    I -- Yes --> K[Final Test]
-    K --> L{Satisfactory?}
-    L -- No --> B
-    L -- Yes --> M[Deploy Model]
-```
-
 ### Data Collection and Preparation
 The foundation of any ML project starts with data. Key considerations include:
 
