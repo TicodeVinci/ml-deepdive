@@ -7,7 +7,7 @@ Large Language Models (LLMs) represent a significant advancement in Natural Lang
 - Designed to understand, generate, and respond to human-like text
 - Contain billions of parameters (adjustable weights)
 - Based primarily on the Transformer Architecture
-- Part of the broader field of generative AI (GenAI)
+- Part of the broader field of generative AI 
 
 
 
