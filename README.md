@@ -14,7 +14,7 @@ Day 2 of 14
     <tr>
       <td align="center" width="300px">
         <h3>📖 Day 1</h3>
-        <a href="notes/">
+        <a href="notes/Large Language Models.md">
           <b>"Introduction to LLM"</b>
         </a>
         <br/>
