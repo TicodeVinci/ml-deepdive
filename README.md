@@ -1,32 +1,5 @@
 ![header](assets/all_you_need.png)
 
-
-#### Current Focus Area:
-
-- [ ] "Build a Large Language Model" by Sebastian Raschka
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300px">
-        <h3>📖 Day 1</h3>
-        <a href="notes/Large Language Models.md">
-          <b>"Introduction to LLM"</b>
-        </a>
-        <br/>
-        <sub>From: Build a Large Language Model</sub>
-      </td>
-      <td align="center" width="300px">
-        <h3>📖 Day 2</h3>
-        <a href="notes/">
-          <b>Preparing text for LLM training</b>
-        </a>
-        <br/>
-        <sub>From: Build a Large Language Models</sub>
-      </td>
-    </tr>
-  </table>
-</div>
 ## 🎯 Study progress: 
 
 ✅ ✅ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
