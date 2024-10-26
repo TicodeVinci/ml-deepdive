@@ -1,9 +1,5 @@
 ![header](assets/all_you_need.png)
 
-## 🎯 Study progress: 
-
-✅ ✅ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
-Day 2 of 14
 
 #### Current Focus Area:
 
