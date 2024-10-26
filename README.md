@@ -15,7 +15,7 @@ Day 2 of 14
       <td align="center" width="300px">
         <h3>🗒️ Note </h3>
         <a href="notes/Foundations of Machine Learning.md">
-          <b>"Introduction ML"</b>
+          <b>Introduction to ML</b>
         </a>
         <br/>
         <sub>From: Probabilistic Machine Learning: An Introduction</sub>
