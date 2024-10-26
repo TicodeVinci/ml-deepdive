@@ -34,7 +34,7 @@ graph LR
 ## Architecture and Components
 
 ### Transformer Architecture
-The foundation of modern LLMs is the transformer architecture, introduced in 2017 in the famous paper [Attention_is_all_you_need](../resources/Attention_is_all_you_need.pdf)
+The foundation of modern LLMs is the transformer architecture, introduced in 2017 in the famous paper [Attention_is_all_you_need](../../resources/Attention_is_all_you_need.pdf)
 - **Encoder**: Processes input text
 - **Decoder**: Generates output text
 - **Self-attention mechanism**: Allows the model to weigh the importance of different words in context
