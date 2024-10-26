@@ -13,7 +13,7 @@ Day 2 of 14
   <table>
     <tr>
       <td align="center" width="300px">
-        <h3>📖 Day 1</h3>
+        <h3>🗒️ Note </h3>
         <a href="notes/">
           <b>"Introduction to LLM"</b>
         </a>
@@ -21,7 +21,7 @@ Day 2 of 14
         <sub>From: Build a Large Language Model</sub>
       </td>
       <td align="center" width="300px">
-        <h3>📖 Day 2</h3>
+        <h3>🗒️ Note </h3>
         <a href="notes/">
           <b>Preparing text for LLM training</b>
         </a>
