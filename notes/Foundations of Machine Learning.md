@@ -28,7 +28,7 @@ Traditional programming requires explicit rules to be coded for every situation.
    * Learns through trial and error
    * Receives rewards or penalties for actions
 
-![alt text](assets/Screenshot 2024-10-26 at 22.22.59.png)
+![alt text](assets/mindmap1.png)
 
 ## The Machine Learning Pipeline
 
