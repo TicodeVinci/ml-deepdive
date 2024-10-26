@@ -1,12 +1,12 @@
 ## Introduction
-Large Language Models (LLMs) represent a significant advancement in [[Natural Language Processing]] (NLP), offering unprecedented capabilities in understanding and generating human-like text. These models have transformed how we interact with artificial intelligence, enabling more natural and sophisticated language processing tasks.
+Large Language Models (LLMs) represent a significant advancement in Natural Language Processing (NLP), offering unprecedented capabilities in understanding and generating human-like text. These models have transformed how we interact with artificial intelligence, enabling more natural and sophisticated language processing tasks.
 
 ## What are LLMs?
 
-- Deep [[neural networks]] trained on massive amounts of text data
+- Deep neural networks trained on massive amounts of text data
 - Designed to understand, generate, and respond to human-like text
 - Contain billions of parameters (adjustable weights)
-- Based primarily on the [[Transformer Architecture]]
+- Based primarily on the Transformer Architecture
 - Part of the broader field of generative AI (GenAI)
 
 
@@ -33,7 +33,7 @@ graph LR
 
 ## Architecture and Components
 
-### [[Transformer Architecture]]
+### Transformer Architecture
 The foundation of modern LLMs is the transformer architecture, which consists of:
 - **Encoder**: Processes input text
 - **Decoder**: Generates output text
@@ -41,13 +41,13 @@ The foundation of modern LLMs is the transformer architecture, which consists of
 
 ### Transformer-Based Models
 
-1. [[BERT Models]]
+1. BERT Models
    - Focus on text understanding
    - Use mainly encoder components
    - Specialized in classification tasks
    - Example application: Content moderation
 
-2. [[GPT Models]]
+2. GPT Models
    - Focus on text generation
    - Use mainly decoder components
    - Specialized in generative tasks
@@ -55,7 +55,7 @@ The foundation of modern LLMs is the transformer architecture, which consists of
 
 ## Training Process
 
-### 1. [[Pretraining]]
+### 1. Pretraining
 - Trained on vast amounts of raw text data
 - Uses next-word prediction as the primary task
 - Creates a foundation model
@@ -67,7 +67,7 @@ The foundation of modern LLMs is the transformer architecture, which consists of
 	- Books: 16%
 	- Wikipedia: 3%
 
-### 2. [[Finetuning]]
+### 2. Finetuning
 - Further training on specific tasks or domains
 - Uses smaller, labeled datasets
 - Two main categories:
@@ -89,10 +89,3 @@ The foundation of modern LLMs is the transformer architecture, which consists of
 
 
 **Remember:** When we say LLMs "understand" language, we mean they can process and generate text in contextually relevant ways, not that they possess human-like consciousness or comprehension.
-
-
-
-
-
-____
-Tags: [[Machine Learning]]
