@@ -7,26 +7,26 @@ Day 3 of 14
 
 #### Current Focus Area:
 
-- [ ] "Build a Large Language Model" by Sebastian Raschka
+- [ ] "Build a Large Language Model from Scratch" by Sebastian Raschka
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="300px">
         <h3>🗒️ Note </h3>
-        <a href="notes/Foundations of Machine Learning.md">
-          <b>Introduction to ML</b>
+        <a href="notes/Book - Build a LLM from scratch/Preparing_Text_Data.md">
+          <b>Preparing Text Data</b>
         </a>
         <br/>
-        <sub>From: Probabilistic Machine Learning: An Introduction</sub>
+        <sub>From: Build a LLM from Scratch</sub>
       </td>
       <td align="center" width="300px">
         <h3>🗒️ Note </h3>
-        <a href="notes/Large Language Models.md">
+        <a href="notes/Book - Build a LLM from scratch/Large_Language_Models.md">
           <b>Introduction to LLM</b>
         </a>
         <br/>
-        <sub>From: Build a Large Language Models</sub>
+        <sub>From: Build a LLM from Scratch</sub>
       </td>
     </tr>
   </table>
