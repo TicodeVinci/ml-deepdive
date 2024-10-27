@@ -69,6 +69,7 @@ A model after pretraining is called "foundation model".
 - Creates a foundation model
 - Requires significant computational resources
 - Example dataset composition (GPT-3):
+
 <table>
   <tr>
     <th>Dataset</th>
