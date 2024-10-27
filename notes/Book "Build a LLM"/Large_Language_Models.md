@@ -61,23 +61,32 @@ Key breakthrough -> **Self-attention** = adding attention layers between encoder
 ## Training Process
 
 ### 1. Pretraining
-- Trained on vast amounts of raw text data
+
+Pretraining is the first step of a model training. A huge ammount of text data is used for this fase to give the model the ability to understand and generate text. 
+A model after pretraining is called "foundation model".
+
 - Uses next-word prediction as the primary task
 - Creates a foundation model
 - Requires significant computational resources
 - Example dataset composition (GPT-3):
-	
-	- CommonCrawl (filtered): 60%
-	- WebText2: 22%
-	- Books: 16%
-	- Wikipedia: 3%
+| Dataset | Percentage |
+|---------|------------|
+| CommonCrawl (filtered) | 60% |
+| WebText2 | 22% |
+| Books | 16% |
+| Wikipedia | 3% |
+
 
 ### 2. Finetuning
-- Further training on specific tasks or domains
+
+Finetuning is the process of taking pretained models and further train them on smaller, more specific datasets in order to excel in specific domains. 
+
 - Uses smaller, labeled datasets
 - Two main categories:
-  - Instruction finetuning
-  - Classification finetuning
+  - Instruction finetuning: consist in finetuning the model on how it should answer using training it on pairs of text and completitions. 
+  - Classification finetuning: consist in finetuning the model on classification tasks training it on pairs of text and classification labels.
+
+  ![phases](../../assets/img2.jpeg)
 
 ## Advantages Over Traditional NLP
 - No manual feature extraction needed
