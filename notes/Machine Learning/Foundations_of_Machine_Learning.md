@@ -33,7 +33,7 @@ Traditional programming requires explicit rules to be coded for every situation.
    * Use example:
       * A game-playing AI learning to win at chess
 
-![alt text](../assets/mindmap1.png)
+![mindmap](../../assets/mindmap1.png)
 
 ## The Machine Learning Pipeline
 
